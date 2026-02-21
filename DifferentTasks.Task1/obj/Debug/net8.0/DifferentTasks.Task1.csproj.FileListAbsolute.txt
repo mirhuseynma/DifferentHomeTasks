@@ -1,0 +1,14 @@
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\bin\Debug\net8.0\DifferentTasks.Task1.exe
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\bin\Debug\net8.0\DifferentTasks.Task1.deps.json
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\bin\Debug\net8.0\DifferentTasks.Task1.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\bin\Debug\net8.0\DifferentTasks.Task1.dll
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\bin\Debug\net8.0\DifferentTasks.Task1.pdb
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.dll
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\refint\DifferentTasks.Task1.dll
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.pdb
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\DifferentTasks.Task1.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\DifferentTasks\DifferentTasks.Task1\obj\Debug\net8.0\ref\DifferentTasks.Task1.dll
