@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DifferentTasks.Task1.Errors;
 
-namespace DifferentTasks.Task1.Task1Classes
+namespace DifferentTasks.Task1.Task1Models
 {
     public class Employee
     {
@@ -29,7 +29,7 @@ namespace DifferentTasks.Task1.Task1Classes
             foreach (var emp in employees)
             {
                 if (string.IsNullOrEmpty(emp.Name) || string.IsNullOrEmpty(emp.Surname))
-                    throw new Error("Employee with null name and surname cannot be added.");
+                    throw new NotNullOrEmpty("Employee with null name and surname cannot be added.");
             }
             Array.Resize(ref employees, employees.Length + 1);
             employees[^1] = employee;        
@@ -42,7 +42,7 @@ namespace DifferentTasks.Task1.Task1Classes
             {
                 if (emp.Name == null && emp.Surname == null)
                 {
-                    throw new Error("Employee with null name and surname cannot be added.");
+                    throw new NotNullOrEmpty("Employee with null name and surname cannot be added.");
                 }
                 else
                 {

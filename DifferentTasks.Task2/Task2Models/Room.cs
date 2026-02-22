@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DifferentTasks.Task2.Task2Classes
+namespace DifferentTasks.Task2.Task2Models
 {
     public class Room
     {

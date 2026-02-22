@@ -1,5 +1,5 @@
 ﻿using DifferentTasks.Task2.Errors;
-using DifferentTasks.Task2.Task2Classes;
+using DifferentTasks.Task2.Task2Models;
 
 namespace DifferentTasks.Task2
 {

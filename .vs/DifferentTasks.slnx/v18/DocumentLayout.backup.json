@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFFCAEDD-27F8-4195-90C4-829D862CEEB9}|DifferentTasks.Task2\\DifferentTasks.Task2.csproj|c:\\users\\abdul\\onedrive\\desktop\\differenttasks\\differenttasks.task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFCAEDD-27F8-4195-90C4-829D862CEEB9}|DifferentTasks.Task2\\DifferentTasks.Task2.csproj|solutionrelative:differenttasks.task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{670BD28A-47FD-40BA-9F36-EC9505947843}|DifferentTasks.Task3\\DifferentTasks.Task3.csproj|c:\\users\\abdul\\onedrive\\desktop\\differenttasks\\differenttasks.task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BD28A-47FD-40BA-9F36-EC9505947843}|DifferentTasks.Task3\\DifferentTasks.Task3.csproj|solutionrelative:differenttasks.task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFCAEDD-27F8-4195-90C4-829D862CEEB9}|DifferentTasks.Task2\\DifferentTasks.Task2.csproj|c:\\users\\abdul\\onedrive\\desktop\\differenttasks\\differenttasks.task2\\task2classes\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFCAEDD-27F8-4195-90C4-829D862CEEB9}|DifferentTasks.Task2\\DifferentTasks.Task2.csproj|solutionrelative:differenttasks.task2\\task2classes\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{670BD28A-47FD-40BA-9F36-EC9505947843}|DifferentTasks.Task3\\DifferentTasks.Task3.csproj|c:\\users\\abdul\\onedrive\\desktop\\differenttasks\\differenttasks.task3\\task3models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BD28A-47FD-40BA-9F36-EC9505947843}|DifferentTasks.Task3\\DifferentTasks.Task3.csproj|solutionrelative:differenttasks.task3\\task3models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFCAEDD-27F8-4195-90C4-829D862CEEB9}|DifferentTasks.Task2\\DifferentTasks.Task2.csproj|c:\\users\\abdul\\onedrive\\desktop\\differenttasks\\differenttasks.task2\\task2classes\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFCAEDD-27F8-4195-90C4-829D862CEEB9}|DifferentTasks.Task2\\DifferentTasks.Task2.csproj|solutionrelative:differenttasks.task2\\task2classes\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{670BD28A-47FD-40BA-9F36-EC9505947843}|DifferentTasks.Task3\\DifferentTasks.Task3.csproj|c:\\users\\abdul\\onedrive\\desktop\\differenttasks\\differenttasks.task3\\enums\\firemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BD28A-47FD-40BA-9F36-EC9505947843}|DifferentTasks.Task3\\DifferentTasks.Task3.csproj|solutionrelative:differenttasks.task3\\enums\\firemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,42 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task2\\Task2Classes\\Hotel.cs",
-              "RelativeDocumentMoniker": "DifferentTasks.Task2\\Task2Classes\\Hotel.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task2\\Task2Classes\\Hotel.cs",
-              "RelativeToolTip": "DifferentTasks.Task2\\Task2Classes\\Hotel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task3\\Program.cs",
+              "RelativeDocumentMoniker": "DifferentTasks.Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task3\\Program.cs*",
+              "RelativeToolTip": "DifferentTasks.Task3\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T10:28:34.777Z",
+              "WhenOpened": "2026-02-21T17:10:26.471Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireMode.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task3\\Enums\\FireMode.cs",
+              "RelativeDocumentMoniker": "DifferentTasks.Task3\\Enums\\FireMode.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task3\\Enums\\FireMode.cs",
+              "RelativeToolTip": "DifferentTasks.Task3\\Enums\\FireMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:59:26.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task2\\Task2Classes\\Room.cs",
-              "RelativeDocumentMoniker": "DifferentTasks.Task2\\Task2Classes\\Room.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task2\\Task2Classes\\Room.cs",
-              "RelativeToolTip": "DifferentTasks.Task2\\Task2Classes\\Room.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswB8AAAAIAAAAAAAAAA==",
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task3\\Task3Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "DifferentTasks.Task3\\Task3Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task3\\Task3Models\\Weapon.cs",
+              "RelativeToolTip": "DifferentTasks.Task3\\Task3Models\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T10:10:42.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task2\\Program.cs",
-              "RelativeDocumentMoniker": "DifferentTasks.Task2\\Program.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\DifferentTasks\\DifferentTasks.Task2\\Program.cs*",
-              "RelativeToolTip": "DifferentTasks.Task2\\Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvxoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T10:08:47.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T16:51:20.681Z"
             }
           ]
         }

@@ -1,5 +1,5 @@
 ﻿using DifferentTasks.Task1.Errors;
-using DifferentTasks.Task1.Task1Classes;
+using DifferentTasks.Task1.Task1Models;
 
 namespace DifferentTasks.Task1
 {
@@ -27,7 +27,7 @@ namespace DifferentTasks.Task1
 
                 employe.GetSalaryByDate(new DateOnly(1995, 1, 1), new DateOnly(2000, 12, 31));
             }
-            catch (Error ex)
+            catch (NotNullOrEmpty ex)
             {
                 Console.WriteLine($"Error: {ex.Message}");
             }

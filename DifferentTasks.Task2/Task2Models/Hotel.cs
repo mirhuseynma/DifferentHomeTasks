@@ -1,6 +1,6 @@
 ﻿using DifferentTasks.Task2.Errors;
 
-namespace DifferentTasks.Task2.Task2Classes
+namespace DifferentTasks.Task2.Task2Models
 {
     public class Hotel
     {
